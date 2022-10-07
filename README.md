@@ -1,1 +1,1 @@
-# shiftScheduler
+# Simple Shift Scheduling App
